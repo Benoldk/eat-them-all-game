@@ -1,0 +1,995 @@
+# Blender MTL File: 'None'
+# Material Count: 100
+
+newmtl acacia_bench___acacia_bench_bois
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bois_038.jpg
+
+newmtl basketball_hoop___basketball_hoop_filet
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fillet_volley.png
+map_d fillet_volley.png
+
+newmtl beige_006_Wall_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.727843 0.727843 0.702745
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl birch_2_Room_Entity_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd birch 2.jpg
+
+newmtl bitume_001_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bitume_001.jpg
+
+newmtl bitume_001_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bitume_001.jpg
+
+newmtl bitume_001_ovcol4c4c4ccolpic12contpic09_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bitume_001.jpg
+
+newmtl blanc_001_Room_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl blanc_001_Wall_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl bois_104_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bois_104.jpg
+
+newmtl boy_001___boy:material__38
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boy_head.jpg
+
+newmtl boy_001___boy:material__40
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boy_body.jpg
+
+newmtl brique_001_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brique_001.jpg
+
+newmtl brique_009_Wall_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brique_009.jpg
+
+newmtl brique_015_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brique_015.jpg
+
+newmtl car_clinton_002___clint_pol_tex
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd clinton_taxi_base.jpg
+
+newmtl car_clinton_002___tire
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tire.jpg
+
+newmtl car_hybrid_000___majestic_hy__textures
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.117000 0.117000 0.117000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hybrid_base.jpg
+
+newmtl car_hybrid_000___mirroir
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd mirror.nocompress.png
+
+newmtl car_madeon_000___brakedisc
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brakeRotor_000.jpg
+
+newmtl car_madeon_000___madeon_nypd_tex
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd madeon_base.jpg
+
+newmtl car_sacura_000___sakura_tex
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd sacura_base.jpg
+
+newmtl car_touring_000___phares
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lights.jpg
+
+newmtl car_van_000___usvan_tex
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd van_base.jpg
+
+newmtl carrelage_001_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_001.jpg
+
+newmtl carrelage_013_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_013.jpg
+
+newmtl carrelage_048_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_048.jpg
+
+newmtl carrelage_058_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_058.jpg
+
+newmtl carrelage_058_ovcol999999colpic12contpic01_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_058.jpg
+
+newmtl carrelage_058_ovcola0b9cccolpic11contpic03_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd carrelage_058.jpg
+
+newmtl chiot___chiot
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd chiot.jpg
+
+newmtl citrus_tree___citrus_tree:citrus_feuilles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuilles_citrus.png
+map_d feuilles_citrus.png
+
+newmtl enduit_001_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enduit_001.jpg
+
+newmtl enduit_004_Room_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl enduit_004_Wall_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl enduit_005_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd enduit_005.jpg
+
+newmtl erable___erable:lambert5sg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuille_erable.jpg
+
+newmtl erable___erable:phong1sg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_tronc_erable.jpg
+
+newmtl fake_mat_101_54_27_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.316862 0.169412 0.084706
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_104_81_65_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.326274 0.254118 0.203922
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_125_30_42_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.094118 0.131765
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_129_150_158_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.404706 0.470588 0.495686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_145_134_114_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.420392 0.357647
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_173_104_56_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.542745 0.326274 0.175686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_17_74_152_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.053334 0.232157 0.476862
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_202_17_17_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.633726 0.053334 0.053334
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_202_195_187_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.633726 0.611765 0.586666
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_206_174_119_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.646274 0.545882 0.373334
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_229_233_230_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.718431 0.730980 0.721569
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_233_204_23_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.730980 0.640000 0.072157
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_255_255_255_32.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.125490
+illum 2
+
+newmtl fake_mat_44_39_37_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.138039 0.122353 0.116078
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_80_79_79_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.250981 0.247843 0.247843
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_8_7_7_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.025098 0.021961 0.021961
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fake_mat_97_124_39_255
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.304314 0.389020 0.122353
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl frene____frenefeuilles1.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuilles_frene.png
+map_d feuilles_frene.png
+
+newmtl garcon___garcon_material__337
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_garcon.jpg
+
+newmtl graviers_002_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd graviers_002.jpg
+
+newmtl graviers_004_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd graviers_004.jpg
+
+newmtl gris_002_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.338824 0.338824 0.338824
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl gris_006_Room_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.106667 0.109804 0.125490
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl gris_006_Wall_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.106667 0.109804 0.125490
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ground_herbe_1_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ground_herbe_1.jpg
+
+newmtl ground_herbe_2_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ground_herbe_2.jpg
+
+newmtl lambris_ext_005_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lambris_ext_005.jpg
+
+newmtl lampe_plante_jardin___lampe_plante_jardin:lampe_plante_jardin_f
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.360000 0.360000 0.360000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuille_bleuet.jpg
+
+newmtl lampe_plante_jardin___lampe_plante_jardin:lampe_plante_jardin_l
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ampoule.jpg
+
+newmtl lavande___lavande_pot_feuille1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lavande_branche2.png
+map_d lavande_branche2.png
+
+newmtl lavande___lavande_pot_feuille2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lavande_branche.png
+map_d lavande_branche.png
+
+newmtl magnolia___magnolia_magnolia_fleur
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuilles_magnolia.png
+map_d feuilles_magnolia.png
+
+newmtl marron_004_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.614902 0.589804
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl metal_004_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metal_004.jpg
+
+newmtl metal_015_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metal_015.jpg
+
+newmtl moquette_017_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd moquette_017.jpg
+
+newmtl oak_tree___oak_banche
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd branche_oak.png
+map_d branche_oak.png
+
+newmtl olivier___olivier:olivier_banche.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd branche_olivier.png
+map_d branche_olivier.png
+
+newmtl papier_peint_035_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd papier_peint_035.jpg
+
+newmtl parquet_022_Room_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd parquet_022.jpg
+
+newmtl parquet_029_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd parquet_029.jpg
+
+newmtl pierres_007_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pierres_007.jpg
+
+newmtl pierres_010_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pierres_010.jpg
+
+newmtl plante_interieur_off___phong80
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd palmier_tex_001.png
+map_d palmier_tex_001.png
+
+newmtl pommier___pommier:pommier_feuilles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pommier.png
+map_d pommier.png
+
+newmtl refrigerateur_009____mat_vectorfloralsg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd vector-floral-ornamenta.png
+map_d vector-floral-ornamenta.png
+
+newmtl skysc_Wall_Entity_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd skysc.jpg
+
+newmtl spa_octogonal___spa_octogonal:spa_octogonal_jets
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pois_jet.png
+map_d pois_jet.png
+
+newmtl table_014____table_rondetable_ronde_feuilles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd feuille_002.png
+map_d feuille_002.png
+
+newmtl table_014____table_rondetable_ronde_rose
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fleur_rose.png
+map_d fleur_rose.png
+
+newmtl terre_001_Room_Entity_Material.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd terre_001.jpg
+
+newmtl tex_alu2_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex_alu2.jpg
+
+newmtl tex_alu2_ovcol999999colpic12contpic01_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex_alu2.jpg
+
+newmtl tex_bois_marron_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex_bois_marron.jpg
+
+newmtl tex_cuir5
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex_cuir5.jpg
+
+newmtl texture-transparente-300x300
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture-transparente-300x300.png
+map_d texture-transparente-300x300.png
+
+newmtl texture_eau_piscine_Room_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_eau_piscine.png
+map_d texture_eau_piscine.png
+
+newmtl texture_eau_piscine_ovcole6e6e6colpic12contpic04
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_eau_piscine.png
+map_d texture_eau_piscine.png
+
+newmtl texture_eau_piscine_ovcolffffffcolpic12contpic05
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd texture_eau_piscine.png
+map_d texture_eau_piscine.png
+
+newmtl thuya___mat_thuya_001_feuilles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.026000 0.026000 0.026000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd thuya.jpg
+
+newmtl thuya___mat_thuya_tronc
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.101200 0.101200 0.101200
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ecorce_chene.jpg
+
+newmtl vert_010_Wall_Entity_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.112941 0.523922 0.078431
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

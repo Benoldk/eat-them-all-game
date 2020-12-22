@@ -1,0 +1,153 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl 01_-_Default
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\ground2 low.jpg
+
+newmtl 13_-_Default
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\bulding g.jpg
+
+newmtl 14_-_Default
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\final bulding.jpg
+
+newmtl BULDING
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\BULDINGu1.jpg
+
+newmtl Custom
+Ns 156.862745
+Ka 0.000000 0.000000 0.000000
+Kd 0.398400 0.621200 0.784320
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.614500
+illum 2
+
+newmtl Custom_(1)
+Ns 70.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.476880 0.109840 0.031360
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Custom_(2)
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.476880 0.476880 0.476880
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Custom_(3)
+Ns 33.333333
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.649440 0.254080
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.953900
+illum 2
+
+newmtl Custom_(4)
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.313760 0.232160 0.160000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Custom_(5)
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.294880 0.458000 0.160000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Custom_(7)
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.458000 0.476880 0.348240
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Custom_(8)
+Ns 186.274510
+Ka 0.000000 0.000000 0.000000
+Kd 0.784320 0.784320 0.784320
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.864700
+illum 2
+
+newmtl Custom_(9)
+Ns 164.705882
+Ka 0.000000 0.000000 0.000000
+Kd 0.200800 0.219600 0.784320
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_#40
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\bulding 3.jpg
+
+newmtl bulding_markaz
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\wall texture.jpg
+map_Kd C:\\Users\\pedra\\OneDrive\\Desktop\\new small town\\wall texture.jpg
+
+newmtl diffuse_0_0_0_255
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
