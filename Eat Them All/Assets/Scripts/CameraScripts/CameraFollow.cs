@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Assets.Scripts.Camera
+namespace Assets.Scripts.CameraScripts
 {
-    class CameraFollow : MonoBehaviour
+    public class CameraFollow : MonoBehaviour
     {
         public Transform Target;
         public Vector3 Offset;

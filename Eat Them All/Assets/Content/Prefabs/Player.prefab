@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 2992119269206188278}
   - component: {fileID: 1434223490798628124}
   - component: {fileID: 1812913726572733934}
-  - component: {fileID: 8112951533134956332}
   m_Layer: 0
   m_Name: RightArm
   m_TagString: Untagged
@@ -79,19 +78,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &8112951533134956332
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7332995442129779312}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7465795983977248844
 GameObject:
   m_ObjectHideFlags: 0
@@ -103,7 +89,6 @@ GameObject:
   - component: {fileID: 2355968048947857878}
   - component: {fileID: 8843029735583749554}
   - component: {fileID: 2273822546067356688}
-  - component: {fileID: 5233067842736134622}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -173,19 +158,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &5233067842736134622
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7465795983977248844}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7562584355566000960
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,7 +182,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7562584355566000960}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.33, y: 0.77, z: -2.266}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 1.5, z: 0.5}
   m_Children:
   - {fileID: 2355968048947857878}
@@ -228,7 +200,6 @@ GameObject:
   - component: {fileID: 5056227755017119016}
   - component: {fileID: 5282103275088518737}
   - component: {fileID: 9115602156809095232}
-  - component: {fileID: 5902363380992017091}
   m_Layer: 0
   m_Name: LeftArm
   m_TagString: Untagged
@@ -296,16 +267,3 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &5902363380992017091
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8485544090945665328}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}

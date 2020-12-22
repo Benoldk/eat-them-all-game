@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Target: {fileID: 1856170456}
-  Offset: {x: 0, y: 45, z: -5}
+  Offset: {x: 0, y: 30, z: -5}
   SmoothSpeed: 1
 --- !u!1 &1300835420
 GameObject:
@@ -360,6 +360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57dc513fb6f084b45bffdcf9620391c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  IsInfected: 1
   Speed: 20
 --- !u!4 &1856170456 stripped
 Transform:
@@ -671,7 +672,7 @@ PrefabInstance:
     - target: {fileID: 4690211264441232728, guid: 44b44276b09e4d5478f40967999776a9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.52
+      value: 0.46
       objectReference: {fileID: 0}
     - target: {fileID: 4690211264441232728, guid: 44b44276b09e4d5478f40967999776a9,
         type: 3}

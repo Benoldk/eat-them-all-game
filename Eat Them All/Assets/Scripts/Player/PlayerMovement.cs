@@ -1,35 +1,39 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Base;
+using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+namespace Assets.Scripts.Player
 {
-    public float Speed = 20f;
-
-    // Update is called once per frame
-    void FixedUpdate()
+    public class PlayerMovement : GameCharacter
     {
-        Move();
-    }
+        public float Speed = 20f;
 
-    void Move()
-    {
-        Vector3 point = LookAtMouse();
-        if (Input.GetMouseButton(0))
+        // Update is called once per frame
+        void FixedUpdate()
         {
-            Vector3 dir = (point - transform.position).normalized;
-            transform.position += dir * Speed * Time.deltaTime;
+            Move();
         }
-    }
 
-    private Vector3 LookAtMouse()
-    {
-        Vector3 point = Vector3.zero;
-        Ray mouseRay = Camera.main.ScreenPointToRay(Input.mousePosition);
-        if (Physics.Raycast(mouseRay, out RaycastHit hit, 10000))
+        void Move()
         {
-            point = hit.point;
-            point.y = transform.position.y;
-            transform.LookAt(point);
+            Vector3 point = LookAtMouse();
+            if (Input.GetMouseButton(0))
+            {
+                Vector3 dir = (point - transform.position).normalized;
+                transform.position += dir * Speed * Time.deltaTime;
+            }
         }
-        return point;
+
+        private Vector3 LookAtMouse()
+        {
+            Vector3 point = Vector3.zero;
+            Ray mouseRay = Camera.main.ScreenPointToRay(Input.mousePosition);
+            if (Physics.Raycast(mouseRay, out RaycastHit hit, 10000))
+            {
+                point = hit.point;
+                point.y = transform.position.y;
+                transform.LookAt(point);
+            }
+            return point;
+        }
     }
 }

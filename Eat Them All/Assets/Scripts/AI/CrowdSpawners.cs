@@ -1,66 +1,66 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.NPC;
+using UnityEngine;
 
-public class CrowdSpawners : MonoBehaviour
+namespace Assets.Scripts.AI
 {
-    public int CrowdSize = 20;
-    public Transform RayTransform;
-    public float RayLength = 1000f;
-    public GameObject Spawn;
-
-    private Collider SpawnColliderArea;
-    private int curCrowdSize = 0;
-    private float floorY;
-
-    // Start is called before the first frame update
-    void Start()
+    public class CrowdSpawners : MonoBehaviour
     {
-        SpawnColliderArea = GetComponent<BoxCollider>();
-        Ray ray = new Ray(RayTransform.position, Vector3.down);
-        if(Physics.Raycast(ray, out RaycastHit hit, RayLength))
-        {
-            floorY = hit.point.y;
-        }
-    }
+        public int CrowdSize = 20;
+        public Transform RayTransform;
+        public float RayLength = 1000f;
+        public GameObject Spawn;
 
-    void Update()
-    {
-        if (!IsVisibleFrom(Camera.main, SpawnColliderArea.bounds))
+        private Collider SpawnColliderArea;
+        private int curCrowdSize = 0;
+        private float floorY;
+
+        // Start is called before the first frame update
+        void Start()
         {
+            SpawnColliderArea = GetComponent<BoxCollider>();
+            Ray ray = new Ray(RayTransform.position, Vector3.down);
+            if (Physics.Raycast(ray, out RaycastHit hit, RayLength))
+            {
+                floorY = hit.point.y;
+            }
+
             if (curCrowdSize == 0)
             {
                 SpawnCrowd();
             }
         }
-    }
 
-    void SpawnCrowd()
-    {
-        for(int i = 0; i < CrowdSize; i++)
+        void Update()
         {
-            Vector3 position = new Vector3(Random.Range(SpawnColliderArea.bounds.min.x, SpawnColliderArea.bounds.max.x),
-                                            floorY,
-                                            Random.Range(SpawnColliderArea.bounds.min.z, SpawnColliderArea.bounds.max.z));
-
-            Instantiate(Spawn, position, Quaternion.identity);
-            Spawn.GetComponent<Entity>().ReduceCrowdSizeEvent = ReduceCrowdSize;
-            ++curCrowdSize;
+            //if (!IsVisibleFrom(Camera.main, SpawnColliderArea.bounds))
+            //{
+                
+            //}
         }
-    }
 
-    void ReduceCrowdSize()
-    {
-        --curCrowdSize;
-    }
+        void SpawnCrowd()
+        {
+            for (int i = 0; i < CrowdSize; i++)
+            {
+                Vector3 position = new Vector3(Random.Range(SpawnColliderArea.bounds.min.x, SpawnColliderArea.bounds.max.x),
+                                                floorY,
+                                                Random.Range(SpawnColliderArea.bounds.min.z, SpawnColliderArea.bounds.max.z));
 
-    private bool IsVisibleFrom(Camera camera, Renderer renderer)
-    {
-        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(camera);
-        return GeometryUtility.TestPlanesAABB(planes, renderer.bounds);
-    }
+                var clone = Instantiate(Spawn, position, Quaternion.identity);
+                clone.GetComponent<NPCCharacter>().ReduceCrowdSizeEvent = ReduceCrowdSize;
+                ++curCrowdSize;
+            }
+        }
 
-    private bool IsVisibleFrom(Camera camera, Bounds bounds)
-    {
-        Plane[] planes = GeometryUtility.CalculateFrustumPlanes(camera);
-        return GeometryUtility.TestPlanesAABB(planes, bounds);
+        void ReduceCrowdSize()
+        {
+            --curCrowdSize;
+        }
+
+        //private bool IsVisibleFrom(Camera camera, Bounds bounds)
+        //{
+        //    Plane[] planes = GeometryUtility.CalculateFrustumPlanes(camera);
+        //    return GeometryUtility.TestPlanesAABB(planes, bounds);
+        //}
     }
 }
