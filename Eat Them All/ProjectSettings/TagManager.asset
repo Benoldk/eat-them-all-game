@@ -14,7 +14,7 @@ TagManager:
   - 
   - 
   - GeometryColliders
-  - SpawnerColliders
+  - SpawnerAreas
   - Player
   - 
   - 

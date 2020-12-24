@@ -1,4 +1,5 @@
 ﻿using Assets.Scripts.Base;
+using Assets.Scripts.CameraScripts;
 using UnityEngine;
 
 namespace Assets.Scripts.Player
@@ -6,6 +7,11 @@ namespace Assets.Scripts.Player
     public class PlayerMovement : GameCharacter
     {
         public float Speed = 20f;
+
+        void Start()
+        {
+            Camera.main.GetComponent<CameraFollow>().SetTarget(transform);
+        }
 
         // Update is called once per frame
         void FixedUpdate()

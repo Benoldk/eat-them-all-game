@@ -4,30 +4,34 @@ namespace Assets.Scripts.CameraScripts
 {
     public class CameraFollow : MonoBehaviour
     {
-        public Transform Target;
         public Vector3 Offset;
         public float SmoothSpeed = 1;
 
-        private void Start()
+        private Transform _target;
+
+        public void SetTarget(Transform target)
         {
-            transform.position = Target.position + Offset;
+            _target = target;
+            if (target != null)
+            {
+                transform.position = target.position + Offset;
+            }
             LookAtTarget();
         }
 
-
         private void FixedUpdate()
         {
-            if(Target != null)
+            if(_target != null)
             {
-                transform.position = Vector3.Lerp(transform.position, Target.position + Offset, SmoothSpeed);
+                transform.position = Vector3.Lerp(transform.position, _target.position + Offset, SmoothSpeed);
                 LookAtTarget();
             }
         }
 
         private void LookAtTarget()
         {
-            if (Target != null)
-                transform.LookAt(Target);
+            if (_target != null)
+                transform.LookAt(_target);
         }
     }
 }
